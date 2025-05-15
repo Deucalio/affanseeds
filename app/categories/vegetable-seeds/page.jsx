@@ -459,6 +459,10 @@ export default function VegetableSeedsCategoryPage() {
       {/* Breadcrumb */}
       {/* <Breadcrumb /> */}
 
+
+
+
+
       {/* Hero Section */}
       <section ref={heroRef} className="relative py-16 md:py-24 overflow-hidden">
         {/* Background with gradient overlay */}
